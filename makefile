@@ -1,14 +1,5 @@
 
 
-# Copy the boilerplate
-this-boilerplate-bs:
-	# this is needed for bootstrapping this repo manually and then checking it in.
-	# whenever our boilerplate change we have to do this.
-
-	# grab from core-rt
-	cp -r ./../core-runtime/boilerplate $(PWD)/boilerplatet
-
-
 # includes
 BOILERPLATE_FSPATH=./boilerplate
 
